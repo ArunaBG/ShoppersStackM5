@@ -14,6 +14,8 @@ public void TC_add_001()
 	 System.out.println("name");
 	 System.out.println("name");
 	 System.out.println("name");
+	 System.out.println("hello");
+	 System.out.println("hii");
 	 
 	 
 	
